@@ -1,0 +1,6 @@
+framework module Pods_FaceIDIntegration {
+  umbrella header "Pods-FaceIDIntegration-umbrella.h"
+
+  export *
+  module * { export * }
+}
